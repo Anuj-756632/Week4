@@ -1,2 +1,0 @@
-package advancedproblems.extractprogramminglanguagenamesfromatext;public class ExtractProgrammingLanguage {
-}
