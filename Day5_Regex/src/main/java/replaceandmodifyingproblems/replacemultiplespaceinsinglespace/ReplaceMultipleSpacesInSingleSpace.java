@@ -1,0 +1,2 @@
+package replaceandmodifyingproblems.replacemultiplespaceinsinglespace;public class ReplaceMultipleSpacesInSingleSpace {
+}

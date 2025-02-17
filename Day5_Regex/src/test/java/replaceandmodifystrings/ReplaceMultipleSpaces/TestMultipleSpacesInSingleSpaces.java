@@ -1,0 +1,2 @@
+package replaceandmodifystrings.ReplaceMultipleSpaces;public class TestMultipleSpacesInSingleSpaces {
+}
